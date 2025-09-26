@@ -5,8 +5,8 @@
   "compilerOptions": {
     "rootDir": "./dist/src",
     "paths": {
-      "retriever/*": ["dist/src/*"],
-      "retriever": ["dist/src/index.ts"]
+      "retriever/*": ["./dist/src/*"],
+      "retriever": ["./dist/src/index.ts"]
     },
     "noEmit": false,
     "declaration": true,

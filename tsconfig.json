@@ -7,10 +7,9 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "esModuleInterop": true,
-    "baseUrl": "./",
     "paths": {
-      "retriever/*": ["src/*"],
-      "retriever": ["src/index.ts"]
+      "retriever/*": ["./src/*"],
+      "retriever": ["./src/index.ts"]
     },
     "noEmit": true,
 
