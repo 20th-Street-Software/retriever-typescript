@@ -1,12 +1,12 @@
 {
   "name": "retriever",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "The official TypeScript library for the Retriever API",
   "author": "Retriever <>",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
   "type": "commonjs",
-  "repository": "github:stainless-sdks/retriever-typescript",
+  "repository": "github:20th-Street-Software/retriever-typescript",
   "license": "MIT",
   "packageManager": "yarn@1.22.22",
   "files": [
